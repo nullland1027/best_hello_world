@@ -1,0 +1,3 @@
+/Users/whoami/CLionProjects/best_hello_world/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/whoami/CLionProjects/best_hello_world/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/whoami/CLionProjects/best_hello_world/cmake-build-debug/CMakeFiles/best_hello_world.dir

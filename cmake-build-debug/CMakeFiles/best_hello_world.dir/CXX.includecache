@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/whoami/CLionProjects/best_hello_world/main.cpp
+iostream
+-
+cmath
+-
+cfloat
+-
+cstdlib
+-
+
